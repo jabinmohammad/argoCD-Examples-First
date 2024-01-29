@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: i-know
+  name: You-know
 spec:
   replicas: 3
   revisionHistoryLimit: 3
